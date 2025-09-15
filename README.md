@@ -1,4 +1,4 @@
-# Hi there, I'm AlphaZigy 👋
+# Hi there, I'm Alpha Zigy 👋
 
 ## 🚀 About Me
 
