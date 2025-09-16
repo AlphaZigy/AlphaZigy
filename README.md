@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+AlphaZigy+%F0%9F%91%8B;Software+Engineer+%26+Innovator;Building+the+Future### 🏆 **GitHub Trophies**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alpha Zigara+%F0%9F%91%8B;Software+Engineer+%26+Innovator;Building+the+Future### 🏆 **GitHub Trophies**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlphaZigy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
@@ -16,8 +16,6 @@
 
 ![Made with ❤️ by AlphaZigy](https://img.shields.io/badge/Made%20with%20❤️%20by-AlphaZigy-00D9FF?style=for-the-badge&labelColor=1a1a1a)
 
-</div>ch+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
