@@ -247,7 +247,12 @@
 - 🎓 **Mentorship** - Happy to guide fellow developers
 - 🌍 **Remote Work** - Open to global opportunities
 - 🚀 **Startup Ventures** - Interested in innovative projects
-
+  
+<div align="center">
+  <a href="https://dubzig.co.zw/buymeacoffee/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+  </a>
+</div>
 ---
 
 ## 📊 GitHub Analytics
@@ -283,11 +288,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AlphaZigy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-<div align="center">
-  <a href="https://dubzig.co.zw/buymeacoffee/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
-  </a>
-</div>
 ---
 
 _“Shaping a greener and smarter future, one solution at a time.”_
