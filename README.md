@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alpha Zigara+%F0%9F%91%8B;Software+Engineer+%26+Innovator;Building+the+Future### 🏆 **GitHub Trophies**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+AlphaZigara+%F0%9F%91%8B;Software+Engineer+%26+Innovator;Building+the+Future### 🏆 **GitHub Trophies**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlphaZigy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
