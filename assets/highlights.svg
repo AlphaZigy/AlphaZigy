@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="112" viewBox="0 0 880 112" role="img" aria-label="Highlights">
+<title>30+ projects · 6 industries · 4 platforms · founder of Dubzig</title>
+<style>
+.num{font:800 36px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+.lbl{font:600 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#9DA7B3}
+.tile{animation:rise 3s ease-in-out infinite alternate}
+@keyframes rise{from{transform:translateY(2px)}to{transform:translateY(-2px)}}
+</style>
+<defs><linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<g class="tile" style="animation-delay:0.0s">
+<rect x="0.8" y=".75" width="206.5" height="110.5" rx="16" fill="#0D1117" stroke="url(#g0)" stroke-opacity=".6" stroke-width="1.5"/>
+<text x="104.0" y="60" text-anchor="middle" class="num" fill="url(#g0)">30+</text>
+<text x="104.0" y="80" text-anchor="middle" class="lbl">Projects built</text>
+</g><defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#00D9FF"/></linearGradient></defs>
+<g class="tile" style="animation-delay:0.25s">
+<rect x="224.8" y=".75" width="206.5" height="110.5" rx="16" fill="#0D1117" stroke="url(#g1)" stroke-opacity=".6" stroke-width="1.5"/>
+<text x="328.0" y="60" text-anchor="middle" class="num" fill="url(#g1)">6</text>
+<text x="328.0" y="80" text-anchor="middle" class="lbl">Industries served</text>
+</g><defs><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+<g class="tile" style="animation-delay:0.5s">
+<rect x="448.8" y=".75" width="206.5" height="110.5" rx="16" fill="#0D1117" stroke="url(#g2)" stroke-opacity=".6" stroke-width="1.5"/>
+<text x="552.0" y="60" text-anchor="middle" class="num" fill="url(#g2)">4</text>
+<text x="552.0" y="80" text-anchor="middle" class="lbl">Web · Mobile · IoT · AI</text>
+</g><defs><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+<g class="tile" style="animation-delay:0.75s">
+<rect x="672.8" y=".75" width="206.5" height="110.5" rx="16" fill="#0D1117" stroke="url(#g3)" stroke-opacity=".6" stroke-width="1.5"/>
+<text x="776.0" y="60" text-anchor="middle" class="num" fill="url(#g3)">1</text>
+<text x="776.0" y="80" text-anchor="middle" class="lbl">Company founded</text>
+</g>
+</svg>

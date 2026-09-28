@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Paburiro AI Tutor">
+<title>Paburiro AI Tutor — Web frontend for a national AI tutoring platform covering the curriculum, exams and ECD content.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#141B26"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#A78BFA"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="8s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="acc2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#00D9FF" stop-opacity=".35"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect width="440" height="236" rx="18"/></clipPath>
+<style>
+.title{font:700 21px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#F0F6FC}
+.cat{font:600 10.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#00D9FF;letter-spacing:1.6px}
+.desc{font:400 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#9DA7B3}
+.chip{font:600 11.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#C9D1D9}
+.status{font:700 10.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#00D9FF;letter-spacing:.6px}
+.glow{animation:pulse 4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.shine{animation:sweep 6s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-160px)}60%,100%{transform:translateX(600px)}}
+</style>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="440" height="236" fill="url(#bg)"/>
+<circle class="glow" cx="400" cy="30" r="130" fill="url(#glow)"/>
+<rect class="shine" x="0" y="0" width="90" height="236" fill="#FFFFFF" opacity=".035" transform="skewX(-20)"/>
+<rect width="440" height="3" fill="url(#acc2)"/>
+</g>
+<rect x=".75" y=".75" width="438.5" height="234.5" rx="17.5" fill="none" stroke="url(#acc)" stroke-opacity=".55" stroke-width="1.5"/>
+<rect x="24" y="24" width="52" height="52" rx="14" fill="#00D9FF" fill-opacity=".12" stroke="#00D9FF" stroke-opacity=".35"/>
+<text x="50" y="59" text-anchor="middle" font-size="26">📚</text>
+<text x="92" y="44" class="cat">AI · EDTECH</text>
+<text x="92" y="69" class="title">Paburiro AI Tutor</text>
+<rect x="315.1" y="24" width="100.9" height="22" rx="11" fill="#00D9FF" fill-opacity=".1" stroke="#00D9FF" stroke-opacity=".4"/>
+<text x="365.6" y="39" text-anchor="middle" class="status">TEAM PROJECT</text>
+<text x="24" y="118" class="desc">Web frontend for a national AI tutoring platform covering</text><text x="24" y="139" class="desc">the curriculum, exams and ECD content.</text>
+<rect x="24.0" y="188" width="51.7" height="24" rx="12" fill="#161B22" stroke="#30363D"/><text x="49.8" y="204" text-anchor="middle" class="chip">React</text><rect x="83.7" y="188" width="79.5" height="24" rx="12" fill="#161B22" stroke="#30363D"/><text x="123.4" y="204" text-anchor="middle" class="chip">TypeScript</text><rect x="171.2" y="188" width="70.9" height="24" rx="12" fill="#161B22" stroke="#30363D"/><text x="206.6" y="204" text-anchor="middle" class="chip">shadcn/ui</text><rect x="250.0" y="188" width="70.1" height="24" rx="12" fill="#161B22" stroke="#30363D"/><text x="285.1" y="204" text-anchor="middle" class="chip">TanStack</text>
+</svg>
